@@ -2,7 +2,7 @@
 #! -*- coding: utf-8 -*-
 #
 # BW Patcher - N32 (Leqi) Module
-# Copyright (C) 2024-2025 ScooterTeam
+# Copyright (C) 2024-2026 ScooterTeam
 #
 # This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 # To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
